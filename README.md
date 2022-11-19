@@ -1,2 +1,3 @@
-# python_recap
+# python
+
 repo to revise the python fundamentals
